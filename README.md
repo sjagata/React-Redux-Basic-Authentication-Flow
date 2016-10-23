@@ -5,14 +5,6 @@
 > existing users can login and navigate to restricted pages
 
 
-![alt tag](https://github.com/SandeepJagatha/React-Redux-Basic-Authentication-Flow/blob/master/client/screenshots/mainpage.png)
-
-
-![alt tag](https://github.com/SandeepJagatha/React-Redux-Basic-Authentication-Flow/blob/master/client/screenshots/login%20form.png)
-
-
-![alt tag](https://github.com/SandeepJagatha/React-Redux-Basic-Authentication-Flow/blob/master/client/screenshots/signup%20form.png)
-
 
 ### Installation
 
@@ -39,7 +31,22 @@ or npm run dev
 ```
 
 Then visit,
-[http://localhost:3000/](http://localhost:3090/) for server
-[http://localhost:3000/](http://localhost:8080/) for client
+
+* [http://localhost:3000/](http://localhost:3090/) for server
+* [http://localhost:3000/](http://localhost:8080/) for client
+
+
+
+
+![alt tag](https://github.com/SandeepJagatha/React-Redux-Basic-Authentication-Flow/blob/master/client/screenshots/mainpage.png)
+
+
+
+![alt tag](https://github.com/SandeepJagatha/React-Redux-Basic-Authentication-Flow/blob/master/client/screenshots/login%20form.png)
+
+
+
+![alt tag](https://github.com/SandeepJagatha/React-Redux-Basic-Authentication-Flow/blob/master/client/screenshots/signup%20form.png)
+
 
 
