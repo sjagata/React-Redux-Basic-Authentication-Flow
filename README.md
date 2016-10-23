@@ -9,11 +9,11 @@
 ### Installation
 
 
-This webapp requires [Node.js](https://nodejs.org/) v4+ to run.
+This webapp requires [Node.js](https://nodejs.org/) to run.
 
 Download and extract the [project](https://github.com/SandeepJagatha/React-Redux-Basic-Authentication-Flow).
 
-Install the dependencies and devDependencies and start the server.
+Install the dependencies and start the server.
 
 CLient folder:
 
