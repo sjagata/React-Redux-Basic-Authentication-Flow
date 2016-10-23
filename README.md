@@ -34,6 +34,7 @@ Then visit,
 
 * [http://localhost:3000/](http://localhost:3090/) for server
 
+* [http://localhost:8080/](http://localhost:8080/) for client
 
 
 
