@@ -33,7 +33,6 @@ or npm run dev
 Then visit,
 
 * [http://localhost:3000/](http://localhost:3090/) for server
-* [http://localhost:3000/](http://localhost:8080/) for client
 
 
 
